@@ -81,6 +81,16 @@ For each problem, I use 15 names (I've written the pass rate against each proble
 Overall it had a 40% success rate.
 
 
+| Problem | Modifiers | Pass Rate |
+|---------|-----------|-----------|
+| 1 | None | 30% |
+| 2 | Synonyms | 20% |
+| 3 | Adverbs | 40% |
+| 4 | Negations | 50% |
+| 5 | Connectives | 40% |
+| 6 | All | 60% |
+
+
 These problems can be found in problems.jsonl Results can be found in results.jsonl
 
 ## 6. Bonus
